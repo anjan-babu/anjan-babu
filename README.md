@@ -6,7 +6,3 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: When you are wild you smell an elephant before it can be spotted
 
-<!---
-anjan-babu/anjan-babu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
